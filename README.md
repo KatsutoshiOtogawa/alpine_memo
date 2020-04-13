@@ -14,3 +14,7 @@ apserverとして使うために
 いずれにせよ、ステートレスにしないと、
 軽量OSのデメリットが出る。
 何か作業をするときに面倒臭いなど。
+
+fedorecore,RancherOS,coreosなどと
+dockerhubにある数が全然違うし、
+docker hubに公式のものがないので、まだ5年ぐらいはalpineが主流のはず。
